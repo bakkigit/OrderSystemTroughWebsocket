@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="javafx.base">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/OneDrive/Skrivebord/javaFX/lib/javafx.base.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Skrivebord/javaFX/lib/javafx.controls.jar!/" />
+      <root url="jar://$USER_HOME$/OneDrive/Skrivebord/javaFX/lib/javafx.graphics.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
